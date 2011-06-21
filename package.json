@@ -1,0 +1,9 @@
+{
+    "name": "pnotif",
+    "license": "MPL 1.1/GPL 2.0/LGPL 2.1",
+    "author": "Paul Sawaya",
+    "version": "0.1",
+    "fullName": "pnotif",
+    "id": "jid1-HLRkLAlkyknTAQ",
+    "description": "Jetpack rewrite of the Push Notifications client."
+}
